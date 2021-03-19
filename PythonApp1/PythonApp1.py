@@ -4,6 +4,6 @@ for j in range(1,10):
             print(i,end=" ")
         else:
             print("0",end=" ")
-    print()
+        print()
 
 
